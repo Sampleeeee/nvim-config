@@ -4,4 +4,5 @@ return function()
     require( "opt.tab" )
     require( "opt.lines" )
     require( "opt.diagnostic" )
+    require( "opt.todos" )
 end

@@ -34,6 +34,14 @@ return
         end
     },
 
+    -- Trouble
+    {
+        "folke/trouble.nvim",
+        opts = {},
+        cmd = "Trouble",
+        keys = TROUBLE_PLUGIN_KEYS
+    },
+
     -- Auto complete
     {
         "hrsh7th/nvim-cmp",
